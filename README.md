@@ -124,13 +124,13 @@ This project was developed by students as an educational exploration of complex 
 
 - **Azemina Magrdžija**
   - Email: [azemina.magrdzija@edu.fit.ba](mailto:azemina.magrdzija@edu.fit.ba)
-  - GitHub: [@sehakespeare](https://github.com/sehakespeare)
 
 - **Almer Hodžić**
   - Email: [almer.hodzic@edu.fit.ba](mailto:almer.hodzic@edu.fit.ba)
 
 - **Edin Šehović**
   - Email: [edin.sehovic@edu.fit.ba](mailto:edin.sehovic@edu.fit.ba)
+  - GitHub: [@sehakespeare](https://github.com/sehakespeare)
 
 **Model created**: 2025  
 **Platform**: NetLogo 6.4.0  
